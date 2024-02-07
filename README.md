@@ -1,4 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+LIVE: https://ai-promt.onrender.com/
+
+I have crated this APP to share your favourties prompts with others who are searching for similar prompts.
+
+It has a Account Moudle to register your self in the system which uses Google OAuth to Authentic the User.
+
+You can Create, Edit and Delete the Prompts share by you.
+
+This project is still in development.
 
 ## Getting Started
 
