@@ -3,7 +3,7 @@ LIVE: https://ai-promt.onrender.com/
 
 I have crated this APP to share your favourties prompts with others who are searching for similar prompts.
 
-It has a Account Moudle to register your self in the system which uses Google OAuth to Authentic the User.
+It has a Account Module to register your self in the system which uses Google OAuth to Authentic the User.
 
 You can Create, Edit and Delete the Prompts share by you.
 
